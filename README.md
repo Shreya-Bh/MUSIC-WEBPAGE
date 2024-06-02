@@ -1,6 +1,8 @@
 # MUSIC-WEBPAGE
 This repository features a specially curated collection of peaceful and relaxing music tracks, designed to provide a calming atmosphere. Originally developed as part of the CCSA E-book Corner website during my 5th semester of BCA, this webpage has become a personal favorite that I often revisit for its melodious tunes. I am excited to share this project with you and hope you find the music as enjoyable and soothing as I do.
 
+Please make sure to read the important [Note](https://github.com/Shreya-Bh/MUSIC-WEBPAGE/blob/main/README.md#note).
+
 ## Features
 
 - **Curated Music Collection**: A selection of peaceful and relaxing tracks.
