@@ -18,7 +18,8 @@ https://github.com/Shreya-Bh/MUSIC-WEBPAGE/assets/124278638/58507006-5509-4e7a-b
 A big thank you to Pixabay for providing a platform for copyright-free content and to the talented individuals who uploaded these beautiful music tracks.
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE] file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/Shreya-Bh/MUSIC-WEBPAGE/blob/main/LICENSE) file for details.
+
 ## Note
 The music tracks used in this webpage are sourced from Pixabay under the Creative Commons Zero (CC0) license. However, it's important to note that using the tracks "as is" without any creative modifications, would be a violation of Pixabay's terms and conditions. 
 
