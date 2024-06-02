@@ -3,9 +3,9 @@ This repository features a specially curated collection of peaceful and relaxing
 
 ## Features
 
--- Curated Music Collection: A selection of peaceful and relaxing tracks.
--- Easy Navigation: User-friendly interface to browse and play music.
--- Open Source: Feel free to explore and contribute to the project.
+- **Curated Music Collection**: A selection of peaceful and relaxing tracks.
+- **Easy Navigation**: User-friendly interface to browse and play music.
+- **Open Source**: Feel free to explore and contribute to the project.
 
 ## Demo
 
