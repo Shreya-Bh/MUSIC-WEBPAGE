@@ -2,7 +2,7 @@ body {
     transform: translatex(-4%);
     font-family: 'Poppins', sans-serif;
     overflow-x: hidden;
-    background-image: linear-gradient(rgba(0,0,0,0.68),rgba(0,0,0,0.68)),url("../e-book/media/colorful-8342428_1920.jpg");
+    background-image: linear-gradient(rgba(0,0,0,0.68),rgba(0,0,0,0.68)),url("../media/colorful-8342428_1920.jpg");
   background-repeat: no-repeat;
   background-attachment: fixed;
   width: 100%;
