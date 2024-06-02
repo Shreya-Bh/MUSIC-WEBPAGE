@@ -1,0 +1,141 @@
+body {
+    transform: translatex(-4%);
+    font-family: 'Poppins', sans-serif;
+    overflow-x: hidden;
+    background-image: linear-gradient(rgba(0,0,0,0.68),rgba(0,0,0,0.68)),url("../e-book/media/colorful-8342428_1920.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  width: 100%;
+  height: auto;
+  background-size: cover;
+  background-position: center;
+  position: relative;
+  padding: 0 5%;
+  display: flex;
+  justify-content: center;
+  animation: fadeIn 1s ease-in-out forwards;
+    opacity: 0;
+    }
+    @keyframes fadeIn {
+        to {
+            opacity: 1;
+        }
+    }
+
+    audio {
+        position: relative;
+        transform: scale(1.2, 0.9);
+        opacity: 0.3;
+    }
+
+.aa{
+    transform: translateX(-120%);
+}
+.music-player:hover {
+    transform: scale(1.4, 1); 
+    transition: transform 0.3s ease-in-out;
+  }
+
+  .music-player:hover {
+    transform: scale(1.4, 1);
+    transition: transform 0.3s ease-in-out;
+  }
+  
+ 
+  .floating-image-container {
+    position: fixed;
+    top: 16%;
+    right: -184%;
+    transform: translate(0, -50%);
+    z-index: 2; 
+    animation: floatAnimation 2s ease-in-out infinite;
+  }
+  .floating-image-container img {
+    width: 286px; 
+    border-radius: 50%; 
+  }
+  .floating-image-containeri {
+    position: fixed;
+    top: 42%;
+    right: -184%;
+    transform: translate(0, -50%);
+    z-index: 2; 
+    animation: floatAnimation 2s ease-in-out infinite; 
+  }
+  .floating-image-containeri img {
+    width: 286px; 
+    border-radius: 50%; 
+  }
+  .floating-image-containerii {
+    position: fixed;
+    top: 67%;
+    right: -184%;
+    transform: translate(0, -50%);
+    z-index: 2;
+    animation: floatAnimation 2s ease-in-out infinite; 
+  }
+  .floating-image-containerii img {
+    width: 286px; 
+    border-radius: 50%; 
+  }
+  .floating-image-containeriii {
+    position: fixed;
+    top: 92%;
+    right: -184%;
+    transform: translate(0, -50%);
+    z-index: 2; 
+    animation: floatAnimation 2s ease-in-out infinite; 
+  }
+  .floating-image-containeriii img {
+    width: 286px; 
+    border-radius: 50%; 
+  }
+  
+  @keyframes floatAnimation {
+    0% {
+      transform: translate(0, -50%);
+    }
+    50% {
+      transform: translate(0, -55%);
+    }
+    100% {
+      transform: translate(0, -50%);
+    }
+  }
+  .buttoni{
+      width: 200px;
+      padding: 11px 0;
+      text-align: center;
+      margin: 3px -517px;
+      border-radius: 25px;
+      background-color: aqua;
+      font-weight: bold;
+      border: 2px solid #009688;
+      background: transparent;
+      color: #fff;
+      cursor:hand;
+      text-decoration: none;
+      position: absolute;
+  }
+  .buttoni:hover span {
+      padding-left: 20px;
+    }
+    .buttoni:hover span:after {
+      opacity: 1;
+      left: 0;
+    }
+    .buttoni span {
+      cursor: pointer;
+      display: inline-block;
+      position: relative;
+      transition: 0.5s;
+    }
+    
+    .buttoni span:after {
+      content: '\00ab';
+      position: absolute;
+      opacity: 0;
+      top: 0;
+      left: -30px;
+      transition: 0.5s;
+    }
